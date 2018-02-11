@@ -1,0 +1,68 @@
+#myname {
+    font-family: 'Bitter', serif;
+    font-size: 125px;
+    
+    color: rgb(60, 121, 121);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: rgb(60, 121, 121);
+    border-style: solid;
+}
+#lifestyle {
+    font-family: 'Poiret One', sans-serif;
+    font-size: 80px;
+    color: rgb(60, 121, 121);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+#C:hover {
+color: rgb(55, 110, 110);
+}
+#O:hover {
+color: rgb(53, 105, 105);
+}
+#D:hover {
+color: rgb(50, 100, 100);
+}
+#Y:hover {
+color: rgb(47, 95, 95);
+}
+#P:hover {
+color: rgb(45, 92, 92);
+}
+#E:hover{
+color: rgb(42, 88, 88);
+}
+#L:hover{
+color: rgb(39, 85, 85);
+}
+#L2:hover {
+color: rgb(36, 82, 82);
+}
+#O2:hover {
+color: rgb(33, 75, 75);
+}
+#M:hover {
+color: rgb(29, 70, 70);
+}
+body {
+    background-color: rgb(71, 139, 156);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bitter|Poiret+One|Shrikhand
